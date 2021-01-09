@@ -1,6 +1,8 @@
 # chrome-browserback-demo
 A demo site for browser back in chrome.
 
+URL: https://chrome-browserback-demo.herokuapp.com/index
+
 ## How to run in local environment
 
 ```
